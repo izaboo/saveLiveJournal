@@ -1,5 +1,4 @@
 package com.livejournal.xmlRpc;
-
 import com.livejournal.htmlunit.HtmlPage;
 import com.livejournal.lj.Journal;
 import com.livejournal.lj.Record;

@@ -8,7 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import static com.livejournal.utils.Helpers.println;
-
+//main Journal class
 public class Journal {
     String journalName;
     ArrayList<RecordedDay> recordedDays;

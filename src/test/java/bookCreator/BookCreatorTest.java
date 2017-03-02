@@ -20,7 +20,7 @@ import static com.livejournal.xmlRpc.LJContent.fromContent;
 import static junit.framework.TestCase.assertTrue;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.*;
-
+//
 public class BookCreatorTest {
 
     @Test()

@@ -1,5 +1,5 @@
 package com.livejournal.utils;
-//helpers
+//helpers - printing
 public class Helpers {
     public static void println(String text){
         System.out.println(text);

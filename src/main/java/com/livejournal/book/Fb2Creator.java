@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static com.livejournal.utils.Helpers.println;
-
+//book in fb2 format creation
 public class Fb2Creator implements BookCreator {
     Journal recordedJournal;
     FictionBook book;

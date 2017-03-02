@@ -3,7 +3,7 @@ package com.livejournal.htmlunit;
 import com.gargoylesoftware.htmlunit.WebClient;
 
 import java.util.logging.Level;
-
+//getting LJ start year
 public class HtmlPage {
     String journalName;
 

@@ -1,5 +1,5 @@
 package com.livejournal.lj;
-
+//One record holder
 public class Record {
     String title;
     String subject;

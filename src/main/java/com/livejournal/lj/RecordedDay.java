@@ -1,6 +1,6 @@
 package com.livejournal.lj;
 import java.util.ArrayList;
-
+//one day of records holder
 public class RecordedDay {
 
     String date;
