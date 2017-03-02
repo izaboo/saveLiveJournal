@@ -5,7 +5,7 @@ import com.livejournal.lj.Journal;
 
 import static com.livejournal.utils.Helpers.println;
 import static com.livejournal.xmlRpc.LJContent.fromContent;
-
+//main class
 public class SaveJournal {
     public static void main(String args[]) {
         String year = System.getProperty("year");

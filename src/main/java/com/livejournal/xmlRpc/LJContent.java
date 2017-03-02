@@ -20,7 +20,7 @@ import java.util.Map;
 
 import static com.livejournal.utils.Helpers.*;
 import static com.livejournal.utils.Helpers.println;
-
+//create Journal class from lj content via xmlRpc request to journal pages
 public class LJContent {
     static Map<String, Object> struct = new HashMap<String, Object>();
 
